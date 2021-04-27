@@ -20,7 +20,7 @@ passo a passo para enviar um commit para o repositorio com comandos
 
 2- git status
 
-3-git add
+3-git add 'NOME DO ARQUIVO'
 
 4-git push
 
