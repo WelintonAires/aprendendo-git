@@ -16,13 +16,13 @@ ls
 ------------------------------------------------
 passo a passo para enviar um commit para o repositorio com comandos
 
-1-git status 
+1-git commit -m 'NOME ARQUIVO'
 
-2- git add
+2- git status
 
-3-git push 
+3-git add
 
-4-retira credencial do git
+4-git push
 
-5-carrega commit no git bash
+
 
