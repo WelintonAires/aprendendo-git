@@ -1,0 +1,15 @@
+Hierarquia de pastas E21
+
+welinton.aires
+dev
+
+-Comandos basicos git e bash
+como navegar entre pastas dentro git bash 
+* entrar pasta
+  cd/c: welinton.aires/dev
+
+*voltar nivel
+ cd ..
+
+*ver conteudo de pasta 
+ls
