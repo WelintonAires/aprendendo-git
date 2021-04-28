@@ -17,9 +17,9 @@ ls
 --------------------------------------------------------------------
 passo a passo para enviar um commit para o repositorio com comandos
 
-1-git add 'NOME DO ARQUIVO'
+1-git add 'NOME DO ARQUIVO' ou git add .
 
-2-git commit -m 'NOME ARQUIVO'
+2-git commit -m 'comentario sobre o assunto'
 
 3-git push
 
