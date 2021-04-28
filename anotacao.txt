@@ -14,7 +14,7 @@ como navegar entre pastas dentro git bash
 *ver conteudo de pasta 
 ls
 
----------------------------------------------------------------------
+--------------------------------------------------------------------
 passo a passo para enviar um commit para o repositorio com comandos
 
 1-git add 'NOME DO ARQUIVO'
@@ -23,16 +23,16 @@ passo a passo para enviar um commit para o repositorio com comandos
 
 3-git push
 
----------------------------------------------------------------------
+--------------------------------------------------------------------
 http://externo.proway.com.br/login-aluno
 
 usuario : email pessoal
 senha : data nascimento sem as barras
----------------------------------------------------------------------
+--------------------------------------------------------------------
 
 git config --global --unset user.name
 git config --global --unset user.email
 
----------------------------------------------------------------------
+--------------------------------------------------------------------
 
 
