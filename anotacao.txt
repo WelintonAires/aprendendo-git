@@ -35,4 +35,17 @@ git config --global --unset user.email
 
 --------------------------------------------------------------------
 
+Como criar uma branch
+*git checkout -b NOME DA BANCH
 
+-------------------------------------------------------------
+
+Como navegar na branch 
+*git checkout
+
+-------------------------------------------------------------
+ 
+Como ver as branch
+*git branch -l
+
+-------------------------------------------------------------
