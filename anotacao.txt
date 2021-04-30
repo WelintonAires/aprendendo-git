@@ -51,10 +51,10 @@ Como ver as branch
 -------------------------------------------------------------
 
 Passo para commitar (salvar) uma branch
-git push --set-upstream origin A200
+git push --set-upstream origin NOME DA BRANCH
 
 ----------------------------------------------------------------
-Passo a passo para fazer um marge
+Passo a passo para fazer um marge (mesclar as branch)
 
 git checkout
 git pull origin
