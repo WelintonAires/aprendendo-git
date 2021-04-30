@@ -41,7 +41,7 @@ Como criar uma branch
 -------------------------------------------------------------
 
 Como navegar na branch 
-*git checkout
+*git checkout NOME DA BRANCH
 
 -------------------------------------------------------------
  
@@ -49,3 +49,17 @@ Como ver as branch
 *git branch -l
 
 -------------------------------------------------------------
+
+Passo para commitar (salvar) uma branch
+git push --set-upstream origin A200
+
+----------------------------------------------------------------
+Passo a passo para fazer um marge
+
+git checkout
+git pull origin
+git merge NOME DA BRANCH
+Fechar a aba ou mensagem no studeo
+git push origin
+
+---------------------------------------------------------------
