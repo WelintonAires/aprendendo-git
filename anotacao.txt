@@ -65,5 +65,5 @@ Passo a passo para fazer um marge (mesclar as branch)
 
 ---------------------------------------------------------------
 
-Sincroniza varios arquivos existente
+Sincroniza e Atualiza varios arquivos existente
 *git pull
