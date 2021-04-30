@@ -30,8 +30,9 @@ usuario : email pessoal
 senha : data nascimento sem as barras
 --------------------------------------------------------------------
 
-git config --global --unset user.name
-git config --global --unset user.email
+Quando está com credenciais erradas
+*git config --global --unset user.name
+*git config --global --unset user.email
 
 --------------------------------------------------------------------
 
@@ -51,15 +52,18 @@ Como ver as branch
 -------------------------------------------------------------
 
 Passo para commitar (salvar) uma branch
-git push --set-upstream origin NOME DA BRANCH
+*git push --set-upstream origin NOME DA BRANCH
 
 ----------------------------------------------------------------
 Passo a passo para fazer um marge (mesclar as branch)
 
-git checkout
-git pull origin
-git merge NOME DA BRANCH
-Fechar a aba ou mensagem no studeo
-git push origin
+1- git checkout
+2- git pull origin
+3- git merge NOME DA BRANCH
+4- Fechar a aba ou mensagem no studeo
+5- git push origin
 
 ---------------------------------------------------------------
+
+Sincroniza varios arquivos existente
+*git pull
