@@ -41,7 +41,7 @@ Como criar uma branch
 
 -------------------------------------------------------------
 
-Como navegar na branch 
+Como entrar na branch 
 *git checkout NOME DA BRANCH
 
 -------------------------------------------------------------
