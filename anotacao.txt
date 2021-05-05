@@ -71,6 +71,6 @@ Sincroniza e Atualiza varios arquivos existente(fazer sempre antes de trabalhar)
 ----------------------------------------------------------------
                             *JAVA*
 
-javac-compila (converte para a maquina entender)
-java NOME DO ARQUIVO- abre o arquivo
+javac + NOME DO ARQUIVO -compila (converte para a maquina entender)
+java INICIO DO NOME DO ARQUIVO- abre o arquivo + conteudo
 
