@@ -13,6 +13,11 @@ como navegar entre pastas dentro git bash
 
 *ver conteudo de pasta 
 ls
+-----------------------------------------------------------------
+
+Colocar pasta no git e clonar
+*copia link do github
+*cola no git bash e git clone (ENDEREÇO COPIADO DO GITHUB)
 
 --------------------------------------------------------------------
 passo a passo para enviar um commit para o repositorio com comandos
@@ -70,7 +75,7 @@ Sincroniza e Atualiza varios arquivos existente(fazer sempre antes de trabalhar)
 
 ----------------------------------------------------------------
                             *JAVA*
-
+*No CMD
 javac + NOME DO ARQUIVO -compila (converte para a maquina entender)
 java INICIO DO NOME DO ARQUIVO- abre o arquivo + conteudo
 
