@@ -41,7 +41,7 @@ Como criar uma branch
 
 -------------------------------------------------------------
 
-Como navegar na branch 
+Como entrar na branch 
 *git checkout NOME DA BRANCH
 
 -------------------------------------------------------------
@@ -69,5 +69,8 @@ Sincroniza e Atualiza varios arquivos existente(fazer sempre antes de trabalhar)
 *git pull
 
 ----------------------------------------------------------------
+                            *JAVA*
 
+javac-compila (converte para a maquina entender)
+java NOME DO ARQUIVO- abre o arquivo
 
